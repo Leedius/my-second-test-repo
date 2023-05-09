@@ -5,5 +5,6 @@ public class Test1 {
 		System.out.println("프로그램 시작");
 		System.out.println("프로그램 끝");
 		System.out.println("집에서 작업함");
+		System.out.println("집에서 또 작업함");
 	}
 }
